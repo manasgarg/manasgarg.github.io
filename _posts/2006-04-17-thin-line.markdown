@@ -1,0 +1,11 @@
+---
+author: manasgarg
+comments: true
+date: 2006-04-17 04:35:00+00:00
+layout: post
+slug: thin-line
+title: 'Thin Line'
+wordpress_id: 150
+---
+
+There is a thin line between self-respect and ego. You decide where your self-respect ends, and others decide where your ego begins...

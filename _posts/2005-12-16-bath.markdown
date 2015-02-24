@@ -1,0 +1,11 @@
+---
+author: manasgarg
+comments: true
+date: 2005-12-16 02:05:00+00:00
+layout: post
+slug: bath
+title: 'Bath'
+wordpress_id: 136
+---
+
+Taking bath resets the state of mind!

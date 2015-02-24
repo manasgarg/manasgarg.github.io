@@ -1,0 +1,19 @@
+---
+author: manasgarg
+comments: true
+date: 2005-05-31 11:50:00+00:00
+layout: post
+slug: haste
+title: 'Haste'
+wordpress_id: 122
+---
+
+The problem with today’s world is haste. People find something useful and then they talk about it. When everybody is just talking about it, some people say, oh, we have been talking about it for so long, let’s talk about something else. Something at the next level.  
+
+Example: ajax. We have hardly seen enough applications for this technology and now InfoWorld [wants to talk about what’s next](http://weblog.infoworld.com/article/05/05/23/21FEwebapppush_1.html). Come on. Let it settle down first.  
+
+This haste leads to a hype. Hype leads to bloated expectations. Those bloated expectations lead to a skewed perception that the ‘new kid in town’ didn’t deliver. This perception of failure leads to disillusionment. Those who talk start talking about something else. Those who do continue to build interesting stuff. After some time, when the hype and disillusionment is over, new fantastic applications get written and launched.  
+
+Now, the expectations match the reality. Reason? Whatever change the technology was to bring in has been brought in. Nobody is hasty now as there is nothing to be done and hence nothing to be talked about.  
+
+This reminds me of something that Tolstoy said in War and Peace. And Hugh Prather said in Notes To Myself. If I find myself arguing very patiently about something, I can be sure that I am not convinced. In other words, when you talk too much when you don’t have enough knowledge.

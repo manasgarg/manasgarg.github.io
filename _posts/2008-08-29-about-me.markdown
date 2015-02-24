@@ -1,0 +1,20 @@
+---
+author: manasgarg
+comments: true
+date: 2008-08-29 09:06:00+00:00
+layout: post
+slug: about-me
+title: About me (Poem)
+wordpress_id: 64
+---
+
+Standing on a cliff,  
+ Near the seashore,  
+ Facing the wind,  
+ With arms stretched,  
+ And water droplets falling on my face,  
+ My eyes closed,  
+ Facing the sky,  
+ And a wish comes out,  
+ May I vanish now,  
+ And live on forever...

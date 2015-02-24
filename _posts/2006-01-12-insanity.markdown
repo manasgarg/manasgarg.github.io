@@ -1,0 +1,11 @@
+---
+author: manasgarg
+comments: true
+date: 2006-01-12 12:28:00+00:00
+layout: post
+slug: insanity
+title: 'Insanity'
+wordpress_id: 138
+---
+
+Insanity begets insanity.

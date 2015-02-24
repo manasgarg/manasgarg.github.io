@@ -1,0 +1,19 @@
+---
+author: manasgarg
+comments: true
+date: 2011-04-09 13:58:35+00:00
+layout: post
+slug: finally
+title: Finally!
+wordpress_id: 192
+---
+
+So, finally, I have a blog once again. I started my blogging journey with blogspot, followed by LiveJournal which was followed by self-hosted insightstory.net.
+
+And then, the server hosting insightstory.net crashed. LiveJournal, as a place, was rotting. And I was blog-less for a long time.
+
+Thanks to my friend Janar, I got the motivation to setup by blog again. Just to settle a debate with him, I pulled up a few blog entries from the past and then I read more and more of what I had written in 2008, 2007, 2006 and even earlier. And I suddenly realized how good it was to write once in a while. There was no point in not-blogging.
+
+So, I decided to bring my wordpress account to life. Thankfully, I could easily import my blogspot and livejournal blogs with a single click. And whatever I had lost at insightstory.net could be recovered from waybackmachine.org.
+
+Not sure how much I'll write given that soch.la keeps me busy and Facebook + Twitter provide good channels for a quickly giving vents to your thoughts. Anyway, it's good to have an option for that just-in-case moment.

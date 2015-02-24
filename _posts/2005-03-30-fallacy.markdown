@@ -1,0 +1,15 @@
+---
+author: manasgarg
+comments: true
+date: 2005-03-30 17:38:00+00:00
+layout: post
+slug: fallacy
+title: 'Fallacy'
+wordpress_id: 112
+---
+
+Dr. Michael C. Labossiere has done a wonderful job of documenting [types of fallacies](http://www.nizkor.org/features/fallacies/). I want to learn each one of them by heart so that I can use them in arguments against the person resorting to any of these fallacies.  
+
+Myself: A site like [AbsoluteHousing](http://www.absolutehousing.com) must provide RSS feed of locations that become available for rent.  
+Other Person: Of course, you would say that because you are blogger.  
+Myself: Your statement can be categorized as [Ad Hominem fallacy](http://www.nizkor.org/features/fallacies/ad-hominem.html).

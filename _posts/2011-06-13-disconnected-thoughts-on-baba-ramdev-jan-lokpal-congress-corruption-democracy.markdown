@@ -1,0 +1,27 @@
+---
+author: manasgarg
+comments: true
+date: 2011-06-13 16:27:18+00:00
+layout: post
+slug: disconnected-thoughts-on-baba-ramdev-jan-lokpal-congress-corruption-democracy
+title: Disconnected thoughts on Baba Ramdev, Jan Lokpal, Congress, Corruption & Democracy
+wordpress_id: 204
+---
+
+I have been watching from far all the activities that are happening recently and I have been having a lot of random thoughts on this subject. Since, they are now bursting through my mind, I need to vent them out. So, here are my thoughts in random order...
+
+_We are talking about wrong issues. Baba Ramdev is not the issue. He may be a clown or a social reformist, I don't care. I care about the corruption in the government machinery and that the corruption is open and that nothing is being done about that corruption. Baba Ramdev being opportunist (if he is an opportunist) is inconsequential. Though I would have had more respect for him had he not broken his fast like this but that's fine. Corruption in government machinery is more important for mind-share._
+
+If you don't believe in Jan Lokpal and don't want to support it for that reason, fine. Then support something that you believe in. But don't say that you don't believe in anything. Please *do* believe in something and support it. Corruption is at a very high scale, something needs to be done. Different people need to take the route that suits their value system and their way of operating. That's fine. In freedom struggle, some people went with non-violence and some with violence. They both made an impact. The ones who didn't do either didn't make any impact. Please believe in something, do it and make an impact. That's much more important than finding faults with what others are doing. And by the way, if you believe that bribing traffic cops is the root of all corruption, please stop doing that. At least do your part.
+
+_Celebrities are disgusting. And I find them even more disgusting now. Most of the people debating about Janlokpal Bill have not done any social work in their life. They have not stood up with people for the cause of those people. Everybody has a right to debate on this bill but not everybody has a right to try and mould public opinion. If media is not mature enough to bring right set of people on debate like platforms, try self-restraint._
+
+Democracy in India is a failure so far. Let's accept that. From time & again, people have voted for wrong government. So much so that there is no incentive left for a party to have good intentions. People of India have not created an incentive for the government to be just and uncorrupt. And we are still not doing that. And it's not just about the masses but also about the classes. Democracy has failed because people have failed to understand the conditions under which Democracy works. Democracy puts a lot of responsibility on the shoulders of people (remember: by the people), however, people in India want to shy away from that responsibility. The government should do this, corporation should do that, a leader should come blah blah.
+
+_Congress has failed again & again. Oh wait, I think they have succeeded again & again. They are pretty good at keeping the government stable. BJP had so much problem with the coalition government but Congress seems to be so much at ease. On the other hand, BJP has failed. It has failed to provide an alternative. With so much corruption erupting everywhere, BJP is not able to mobilize people against the incumbents._
+
+JanLokpal is not a long term solution. It cannot be. What we need is a bottom up governance and not top-down governance. Top-down governance can work in a democracy only if there is a bottom-up pressure to make it work. JanLokpal is one more form of top-down governance. However, it's an urgent need of our times. At this point of time, any bottom-up effort for governance is so easy to suppress (is suppressed) that people need some kind of support. That's where JanLokpal fits. Over a period of time, it's likely to get as corrupt as any other institution unless the reasons that have created corruption in the first place are rooted out. However, to root out those reasons, for the time being, something is required to ensure that bottom up movements reach some positive conclusion in a reasonable amount of time.
+
+_Democracy is not about electing a government. Or to put it better, Democracy is not only about electing a government. It's about participating in the governance. Especially when the governance is lacking. If we limit the meaning of democracy to just electing the government, we'll end up in a mess like this. A mess where all that matters to the political parties is to win election and not providing good governance. And when winning is all that matters, there are many ways to accomplish it. Ways which are probably far easier than showing good governance. In fact, winning always requires manipulation regardless of the quality of work that you have done in the past. Elections today are won by manipulation and that's not democracy. So, in a way, Democracy has not failed in India, India has failed to truly adopt democracy._
+
+So, where do you think the issue is? Baba Ramdev's frivolity _OR_ non-democratic nature of JanLokpal Bill _OR_ the shamelessness with which Congress has allowed the propagation of corruption _OR_ our lack of participation in governance? And once you have identified the real issue (as per your evaluation), what's the first step you are going to take?
