@@ -4,7 +4,7 @@ email: manasgarg@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Manas Garg
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://fuzzysparkle.com" # the base hostname & protocol for your site
+url: "http://www.fuzzysparkle.com" # the base hostname & protocol for your site
 twitter_username: manasgarg
 github_username:  manasgarg
 
