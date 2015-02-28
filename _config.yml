@@ -1,10 +1,10 @@
 # Site settings
-title: Being One With Zero
+title: Fuzzy Sparkle
 email: manasgarg@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    Manas Gargs Blog
+    Manas Garg
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://beingonewithzero.com" # the base hostname & protocol for your site
+url: "http://fuzzysparkle.com" # the base hostname & protocol for your site
 twitter_username: manasgarg
 github_username:  manasgarg
 
