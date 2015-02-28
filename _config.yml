@@ -10,3 +10,5 @@ github_username:  manasgarg
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-sitemap
