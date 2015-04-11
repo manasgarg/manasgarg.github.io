@@ -18,6 +18,6 @@ But for all of us poor folks who ignorantly (and hence blissfully) walk into mar
 
 <em>I, ____, take you, ____, to be my (husband/wife). I promise to be true to you in good times and in bad, in sickness and in health. I will love you and honor you all the days of my life.</em>
 
-It's just two lines but it's a very serious business we are getting into. People respond with “I do”, except that they (mostly) don't. Not because we don't intend to, but rather because we don't even understand what it means.
+It's just two lines but it's a very serious business we are getting into. People respond with "I do", except that they (mostly) don't. Not because they don't intend to, but rather because they don't even understand what it means.
 
-I have found that people with happy married life marry twice. First time is an instantaneous affair of committing by saying “I do” or something equivalent. Second time is a “gradual process” of learning to live that commitment on a day to day basis. In other words, you say "I do" and then you "do" :)
+I have found that people with happy married life marry twice. First time is an instantaneous affair of committing by saying _"I do"_ or something equivalent. Second time is a “gradual process” of learning to live that commitment on a day to day basis. In other words, first you say _"I do"_, then you realize that you _actually don't_ and then you _learn to do_ :)
