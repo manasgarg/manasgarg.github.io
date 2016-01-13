@@ -11,9 +11,9 @@ The job of a Software Architect is to identify problems, prioritize them, craft 
 
 I find it amusing that Architects are the recipients of extreme praise _and_ extreme criticism; that too for the same product. Mostly praised when they are part of the team and mostly criticized after they exit.
 
-As I was going through some of this praise-criticism cycle, I was forced to look deeper into it to understand what's really happening here. I work with rational people who are also well intentioned. So, I ruled out flick-mindedness or malice as the root cause. Also, I have observed this across the board for all the Architects that I have worked with. So, it had to be something else.
+As I was going through some of this praise-criticism cycle, I was forced to look deeper into it to understand what's really happening here. I work with rational people who are also well intentioned. So, I ruled out fickle-mindedness or malice as the root cause. Also, I have observed this across the board for all the Architects that I have worked with. So, it had to be something else.
 
-Then's what I realized the problem of solving problems.
+That's when I realized the problem of solving problems.
 
 Every problem that's solved within a software product has its own lifecycle. Problem is discovered and prioritized; a solution is designed and implemented. Solution itself has its own lifecycle. As the product runs in more environments or is loaded with more functionality, the solution needs to change.
 
