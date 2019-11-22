@@ -3,7 +3,7 @@ author: manasgarg
 comments: true
 slug: stress-methods-strategies
 date: 2019-11-21 13:00:00-10:00
-title: Stress: Methods & Strategies
+title: "Stress: Methods & Strategies"
 layout: post
 ---
 Stress is a psychological and physiological response I experience when I am sandwiched between _my desire to get something_ and _my inability to get it_. Stress is a slow killer. It damages health, causes depression, makes people violent. In extreme cases, it makes people suicidal.
