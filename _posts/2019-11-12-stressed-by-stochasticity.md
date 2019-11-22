@@ -1,9 +1,9 @@
 ---
 author: manasgarg
 comments: true
-slug: musings-on-stress
+slug: stressed-by-stochasticity
 date: 2019-11-12 13:00:00-10:00
-title: Musings on Stress
+title: Stressed By Stochasticity
 layout: post
 ---
 The core conflict that forms the basis of stress in my mind is the desire to have control over the world and the reality that I do not have control over it. My actions only influence the world but do not control it.
