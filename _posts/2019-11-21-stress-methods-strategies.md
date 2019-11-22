@@ -1,12 +1,11 @@
 ---
 author: manasgarg
 comments: true
-slug: stress-methods-streategies
+slug: stress-methods-strategies
 date: 2019-11-21 13:00:00-10:00
-title: Stressed: Methods / Strategies
+title: Stress: Methods & Strategies
 layout: post
 ---
-
 Stress is a psychological and physiological response I experience when I am sandwiched between _my desire to get something_ and _my inability to get it_. Stress is a slow killer. It damages health, causes depression, makes people violent. In extreme cases, it makes people suicidal.
 
 There are various strategies to solve the problem of stress. Some of these are cure oriented i.e. they target relief from stress. While some other prevention oriented i.e. they work on root cause of stress. Different people follow different combinations of these methods and strategies.
